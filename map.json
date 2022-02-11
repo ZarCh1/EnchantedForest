@@ -94,20 +94,7 @@
  "renderorder":"right-down",
  "tiledversion":"1.8.0",
  "tileheight":32,
- "tilesets":[
-        {
-         "columns":6,
-         "firstgid":1,
-         "image":"tilesets\/Special_Zones.png",
-         "imageheight":64,
-         "imagewidth":192,
-         "margin":0,
-         "name":"Special_Zones",
-         "spacing":0,
-         "tilecount":12,
-         "tileheight":32,
-         "tilewidth":32
-        }],
+ "tilesets":[],
  "tilewidth":32,
  "type":"map",
  "version":"1.8",
