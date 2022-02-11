@@ -94,20 +94,7 @@
  "renderorder":"right-down",
  "tiledversion":"1.8.0",
  "tileheight":32,
- "tilesets":[
-        {
-         "columns":40,
-         "firstgid":1,
-         "image":"..\/tilesets\/modern_walls_and_floors.png",
-         "imageheight":1856,
-         "imagewidth":1280,
-         "margin":0,
-         "name":"modern_walls_and_floors",
-         "spacing":0,
-         "tilecount":0,
-         "tileheight":32,
-         "tilewidth":32
-        }],
+ "tilesets":[],
  "tilewidth":32,
  "type":"map",
  "version":"1.8",
