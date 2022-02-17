@@ -80,7 +80,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"cyberpunk\/map.json"
+                 "value":"https:\/\/play.workadventu.re\/_\/vaoqii59q8a\/zarch1.github.io\/cyberpunk\/map.json"
                 }],
          "type":"tilelayer",
          "visible":true,
