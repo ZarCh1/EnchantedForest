@@ -50,12 +50,6 @@
          "id":76,
          "name":"Blocked areas",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"block",
-                 "type":"object",
-                 "value":0
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":100,
@@ -187,6 +181,16 @@
          "spacing":0,
          "tilecount":12,
          "tileheight":32,
+         "tiles":[
+                {
+                 "id":0,
+                 "properties":[
+                        {
+                         "name":"Block",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }],
          "tilewidth":32
         }, 
         {
