@@ -50,6 +50,12 @@
          "id":76,
          "name":"Blocked areas",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"block",
+                 "type":"bool",
+                 "value":true
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":100,
