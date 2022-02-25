@@ -26,7 +26,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/miro.com\/welcomeonboard\/eEhwYWMyNjRBWUZZZzNtMDhXVUtsc2xYOGQ1WVE2d21xWGgxRlN4RzZnTnMwTHk0bjdhZkY4ejZCZlV5c21QanwzMDc0NDU3MzYwOTkyODk5MTg4?invite_link_id=751891313700"
+                 "value":"<iframe width=\"768\" height=\"432\" src=\"https:\/\/miro.com\/app\/live-embed\/uXjVOLVGCNo=\/?moveToViewport=-5434,-4483,20641,9699\" frameBorder=\"0\" scrolling=\"no\" allowFullScreen><\/iframe>"
                 }],
          "type":"tilelayer",
          "visible":true,
