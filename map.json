@@ -26,7 +26,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"myjitsimeeting"
+                 "value":"my-meeting-room"
                 }],
          "type":"tilelayer",
          "visible":true,
