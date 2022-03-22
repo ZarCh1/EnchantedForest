@@ -44,7 +44,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/moodle2.tu-ilmenau.de\/course\/view.php?id=4008"
+                 "value":"https:\/\/moodle.uni-weimar.de\/course\/view.php?id=36516"
                 }],
          "type":"tilelayer",
          "visible":true,
