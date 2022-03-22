@@ -26,7 +26,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/embed\/https:\/\/telematik.prakinf.tu-ilmenau.de\/lehre\/eTeach_eeN6tierEeJ8Thei\/lecture_final_noAudio.mp4"
+                 "value":"https:\/\/telematik.prakinf.tu-ilmenau.de\/lehre\/eTeach_eeN6tierEeJ8Thei\/lecture_final_noAudio.mp4"
                 }],
          "type":"tilelayer",
          "visible":true,
